@@ -4,7 +4,7 @@
                                                     text-align: center;
                                                 }
                                                 
-                                                @media screen and (min-width:768px) {
+                                            
                                                     .container {
                                                         width: 800px;
                                                         height: 370px;
@@ -70,7 +70,7 @@
                                                         float: left;
                                                         text-align: left;
                                                     }
-                                                }
+                                                
                                                 
                                                 @media screen and (max-width: 768px) {
                                                     .container {
